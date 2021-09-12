@@ -46,10 +46,10 @@ echo <<< 'E'
 ZSŁ
 <br><br><hr>
 E;
-
+//eluwina
 
 //konkatenacja
 echo "text1"."text2";
 //dzięki backslashowi traktuje zmienną jako stringa
-echo "<br><br>Imię: \$name"; 
+echo "<br><br>Imię: \$name";
 ?>
