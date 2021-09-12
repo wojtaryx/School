@@ -46,7 +46,7 @@ echo <<< 'E'
 ZSŁ
 <br><br><hr>
 E;
-//eluwina
+//eluwina1
 
 //konkatenacja
 echo "text1"."text2";
