@@ -8,7 +8,7 @@
    
     <?php
      if (!empty($_GET['age']) && !empty($_GET['name'])){
-         
+       $name = ucfirst(strtolower($_GET['name']))
         echo <<< L
          <h3>Dane użytkownika</h3>
          Imię: empty($_GET[name])<br>
