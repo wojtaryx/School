@@ -1,0 +1,18 @@
+th, td{
+    border:solid gray 1px;
+    
+    padding: 8px;
+}
+th{
+    font-size: 25px;
+    background-color: lightblue;
+    text-align: center;
+}
+td{
+    font-size: 15px;
+    background-color:lightgray;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
